@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: solar-system
-          image: arsyen/solar:1.0.0
+          image: ayenokyan/solar:1.0.0
           imagePullPolicy: Always
           ports:
             - containerPort: 80
