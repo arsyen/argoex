@@ -19,4 +19,4 @@ spec:
           image: ayenokyan/solar:2.0.0
           imagePullPolicy: Always
           ports:
-            - containerPort: 80
+            - containerPort: 3000
